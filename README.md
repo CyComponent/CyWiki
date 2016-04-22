@@ -1,7 +1,7 @@
 # Ideker Lab Service Wiki
 
 
-## [CX](https://github.com/bdemchak/WikiTest/wiki/CX)
+## [CX](../../wiki/CX)
 ## [SLAs](wiki/SLAs)
 ## [Coding Conventions](wiki/Coding Conventions)
 ## [Elsa](wiki/Elsa)
