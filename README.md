@@ -2,10 +2,10 @@
 
 
 ## [CX](../../wiki/CX)
-## [SLAs](wiki/SLAs)
-## [Coding Conventions](wiki/Coding Conventions)
-## [Elsa](wiki/Elsa)
-## [Services](wiki/Services)
+## [SLAs](../../wiki/SLAs)
+## [Coding Conventions](../../wiki/Coding Conventions)
+## [Elsa](../../wiki/Elsa)
+## [Services](../../wiki/Services)
 
 # Explanation
 This is a test Wiki for service discussions and for recording conventions and insights related to the Cytoscape Cyberinfrastructure (CI)
