@@ -1,4 +1,4 @@
-# Ideker Lab Service Wiki
+# Cytoscape CI Wiki
 
 
 ## [CX](docs/CX.md)
