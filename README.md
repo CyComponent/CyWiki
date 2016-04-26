@@ -1,11 +1,11 @@
 # Ideker Lab Service Wiki
 
 
-## [CX](../../wiki/CX)
-## [SLAs](../../wiki/SLAs)
-## [Coding Conventions](../../wiki/Coding Conventions)
-## [Elsa](../../wiki/Elsa)
-## [Services](../../wiki/Services)
+## [CX](docs/CX)
+## [SLAs](docs/SLAs)
+## [Coding Conventions](docs/Coding Conventions)
+## [Elsa](docs/Elsa)
+## [Services](docs/Services)
 
 # Explanation
 This is a test Wiki for service discussions and for recording conventions and insights related to the Cytoscape Cyberinfrastructure (CI)
