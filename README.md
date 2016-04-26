@@ -1,8 +1,8 @@
 # Ideker Lab Service Wiki
 
 
-## [CX](docs/CX)
-## [SLAs](docs/SLAs)
+## [CX](CX.md)
+## [SLAs](docs/SLAs.md)
 ## [Coding Conventions](docs/Coding Conventions)
 ## [Elsa](docs/Elsa)
 ## [Services](docs/Services)
