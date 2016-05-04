@@ -9,17 +9,25 @@
 [Cytoscape-related Customizations](https://docs.google.com/document/d/17x0WbbFPNEMjuVyNrIzDaREc-XDBQVgdOh7LqDBYGbI/edit)
 
 
-[Archival CX Information](https://docs.google.com/document/d/1XV_yTfXfmgjY3czXWlbYWsBnV70UW9YL0FFRCzOKtiI/edit#heading=h.56xyv0rimwq1)
-
 ## Using CX
 [CX Cookbook](https://docs.google.com/document/d/1A_STRZasG35waHDjivtZo2cPbV5x1hVIXP7KMmh1TV4/edit)
 
-[BioPAX3 Example[(https://docs.google.com/document/d/1RTAcAIr50FB6bt6FmgluouI55BqyPFtvA9rq1qdJF0c/edit)
+[BioPAX3 Example](https://docs.google.com/document/d/1RTAcAIr50FB6bt6FmgluouI55BqyPFtvA9rq1qdJF0c/edit)
 
 ## CX Presentations
 [CyNav and Services]()
 
 [CI Service Examples](https://docs.google.com/presentation/d/1QlzDyy_Y44virr4fjsXd0Fsp8lOOhUvWfWAxnH1v13c/edit#slide=id.gb6c4a0be0_1_139)
+
+## Old Documents
+
+[Archival CX Information](https://docs.google.com/document/d/1XV_yTfXfmgjY3czXWlbYWsBnV70UW9YL0FFRCzOKtiI/edit#heading=h.56xyv0rimwq1)
+
+[CX Techniques](https://docs.google.com/document/d/1FJG3FjYvxNnBAiquLx8KnGcjx8m89DLa_BN0gd5j3yo/edit)
+
+[Prototyping CX Services](https://docs.google.com/document/d/1NRPsrszU5Zzzt9MWTdXXDFUuOI8KxrP0J-R8tkGWEvc/edit)
+
+[CCBB Gene List Analysis Device (GLAD)](https://docs.google.com/document/d/1b9YmyJTrNk-xZk5fo05Y7XoLVgv6ntadMDqVZkqefqQ/edit)
 
 
 ## Loose Thoughts
