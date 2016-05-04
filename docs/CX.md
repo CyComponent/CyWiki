@@ -14,7 +14,7 @@
 * [BioPAX3 Example](https://docs.google.com/document/d/1RTAcAIr50FB6bt6FmgluouI55BqyPFtvA9rq1qdJF0c/edit)
 
 ### CX Presentations - Complete
-* [CyNav and Services]()
+* [CyNav and Services](images/CX/CyNav and Services.pptx)
 
 * [CI Service Examples](https://docs.google.com/presentation/d/1QlzDyy_Y44virr4fjsXd0Fsp8lOOhUvWfWAxnH1v13c/edit#slide=id.gb6c4a0be0_1_139)
 
