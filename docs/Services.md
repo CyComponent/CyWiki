@@ -1,7 +1,7 @@
 # Services - Documentation on CI services
 
 ## CX-aware Services
-* [Convert CX stream to Cytoscape.js](https://github.com/cyService/service-cxtool)
+* [cxtool](https://github.com/cyService/service-cxtool) - Convert CX stream to Cytoscape.js
 
 ## Other Services
 
