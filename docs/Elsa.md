@@ -6,10 +6,10 @@
 Other Elsa articles go here
 
 ## Loose Thoughts
-... Create an article on a new page, put its title here, and link to it from here ...
+* [Service Agent Architecture Block Diagram](https://docs.google.com/document/d/1q7MMA12___7VQ4AYxC_K_zuJMHZG0GXS4ByKwVPRPqQ/edit)
 
 ## Initial Proposals
-... Create an article on a new page, put its title here, and link to it from here ...
+* [Service Agent Executive Summary](https://docs.google.com/document/d/1IOmmjkRW4axXdfo-mEFwavfWDXIWK8QY0Wti12zoxAw/edit)
 
 ## Adopted Proposals
 ... Create an article on a new page, put its title here, and link to it from here ...
