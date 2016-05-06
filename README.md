@@ -6,6 +6,7 @@
 ## [Coding Conventions](docs/Coding Conventions.md)
 ## [Elsa](docs/Elsa.md)
 ## [Services](docs/Services.md)
+## [Cytoscape](docs/Cytoscape.md)
 
 # Explanation
 This is a test Wiki for service discussions and for recording conventions and insights related to the Cytoscape Cyberinfrastructure (CI)
