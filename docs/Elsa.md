@@ -1,7 +1,7 @@
 ## Elsa is a Cytoscape CI Request Broker
 
 ### Elsa Documents - App Programmer and Operator
-* [Beginning App Programmer](https://docs.google.com/document/d/1i3jJm4kcfNYMDR-5itOxT-9sQNo5VfUgF-QoOMtTAd4/edit)
+* [Introduction for App Programmers](https://docs.google.com/document/d/1i3jJm4kcfNYMDR-5itOxT-9sQNo5VfUgF-QoOMtTAd4/edit)
 
 Other Elsa articles go here
 
