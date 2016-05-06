@@ -18,4 +18,4 @@ Sections are organized by status sub-sections (e.g., loose thoughts, proposal, a
 
 Subsections contain collections of pages titled to describe content.
 
-Editing the structure and article content is encourages, as are comments on article content.
+Editing the structure and article content is encouraged, as are comments on article content.
