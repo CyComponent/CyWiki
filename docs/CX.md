@@ -17,7 +17,7 @@
 * [CyNav and Services](images/CX/CyNav and Services.pptx)
 
 * [CI Service Examples](https://docs.google.com/presentation/d/1QlzDyy_Y44virr4fjsXd0Fsp8lOOhUvWfWAxnH1v13c/edit#slide=id.gb6c4a0be0_1_139)
-* 
+
 ### References
 * [Unravelling Graph-Exchange File Formats](images/CX/Graph formats.pdf) - Extensive survey of existing graph file formats
 
