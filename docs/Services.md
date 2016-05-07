@@ -23,6 +23,8 @@
 
 ## Loose Thoughts
 * [NDEx Valet White Board](images/Services/NDEx Valet Chalk Talk.pdf)
+* [CIAuth](https://docs.google.com/document/d/1DJ4denkCsqiJDiTwT0E6JJ67WF72ryhz0gTAasfGsvk/edit) - Thoughts on CI authorization service
+
 
 
 * 
