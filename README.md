@@ -6,6 +6,7 @@
 ## [Coding Conventions](docs/Coding Conventions.md)
 ## [Elsa](docs/Elsa.md)
 ## [Services](docs/Services.md)
+## [Widgets](docs/Widgets.md)
 ## [Cytoscape](docs/Cytoscape.md)
 
 # Explanation
