@@ -19,7 +19,7 @@
 * [CI Service Examples](https://docs.google.com/presentation/d/1QlzDyy_Y44virr4fjsXd0Fsp8lOOhUvWfWAxnH1v13c/edit#slide=id.gb6c4a0be0_1_139)
 
 ### References
-* [Unravelling Graph-Exchange File Formats](images/Graph formats.pdf) - Extensive survey of existing graph file formats
+* [Unravelling Graph-Exchange File Formats](images/Unravelling Graph-Exchange File Formats.pdf) - Extensive survey of existing graph file formats
 
 ### Old Documents - Retired
 
