@@ -1,13 +1,13 @@
 # Cytoscape CI Wiki
 
 
-## [CX](docs/CX.md)
-## [SLAs](docs/SLAs.md)
-## [Coding Conventions](docs/Coding Conventions.md)
-## [Elsa](docs/Elsa.md)
-## [Services](docs/Services.md)
-## [Widgets](docs/Widgets.md)
-## [Cytoscape](docs/Cytoscape.md)
+## [CX](docs/CX/CX.md)
+## [SLAs](docs/SLAs/SLAs.md)
+## [Coding Conventions](docs/Coding-Conventions/Coding Conventions.md)
+## [Elsa](docs/Elsa/Elsa.md)
+## [Services](docs/Services/Services.md)
+## [Widgets](docs/Widgets/Widgets.md)
+## [Cytoscape](docs/Cytoscape/Cytoscape.md)
 
 # Explanation
 This is a test Wiki for service discussions and for recording conventions and insights related to the Cytoscape Cyberinfrastructure (CI)
