@@ -5,6 +5,9 @@
 
 ## Other Services
 
+## Presentation Materials
+* [Barry's Slides](images/Slides.pptx) - Miscellaneous slides describing / supporting service architecture
+
 .
 .
 .
