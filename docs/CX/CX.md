@@ -20,6 +20,10 @@
 
 ### References
 * [Unravelling Graph-Exchange File Formats](images/Unravelling Graph-Exchange File Formats.pdf) - Extensive survey of existing graph file formats
+ 
+## Presentation Materials
+* [Barry's Slides](images/Slides.pptx) - Miscellaneous slides describing / supporting CX architecture
+
 
 ### Old Documents - Retired
 
