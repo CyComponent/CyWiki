@@ -6,3 +6,7 @@
 * [Cytoscape CI Planning for Cy 3.3](https://docs.google.com/document/d/1qyM3ijXY3K_RzuUVM61w1IQJ0SqXeQ217TrMi0TdqpU/edit#heading=h.7n8tsvrqcr3s) - Cytoscape CI service reference implementation
 
 * Cytoscape Prime Diagram [as .vsd](images/Cytoscape Prime.vsd) or [as .svg](images/Cytoscape Prime.svg) - Original diagram for Cytoscape web app
+ 
+## Presentation Materials
+* [Barry's Slides](images/Slides.pptx) - Miscellaneous slides describing / supporting Cytoscape and CI
+
