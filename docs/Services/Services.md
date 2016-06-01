@@ -4,6 +4,7 @@
 * [cxtool](https://github.com/cyService/service-cxtool) - Convert CX stream to Cytoscape.js
 
 ## Other Services
+* [Building and running NBS](https://docs.google.com/document/d/1z5NQhF7cW2ooNtPkooFIngexxSJhBsIkk9NgIM6nX2M/edit#heading=h.h9nsu1mobzmc)
 
 ## Presentation Materials
 * [Barry's Slides](images/Slides.pptx) - Miscellaneous slides describing / supporting service architecture
