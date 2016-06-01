@@ -11,7 +11,11 @@
 ### Using CX - In Progress
 * [CX Cookbook](https://docs.google.com/document/d/1A_STRZasG35waHDjivtZo2cPbV5x1hVIXP7KMmh1TV4/edit)
 
+* [CXIO Python Cookbook](https://docs.google.com/document/d/1KwR-JBfjfSB7aoAi51QtOApv2E5GC80vogXoJ-LyXJw/edit#heading=h.9cz81yxlsk2j)
+
 * [BioPAX3 Example](https://docs.google.com/document/d/1RTAcAIr50FB6bt6FmgluouI55BqyPFtvA9rq1qdJF0c/edit)
+
+* [CXIO Mapping and Conversion Command Line Tools](https://docs.google.com/document/d/1qu1aPZAaQLMZMmAnOGuGOmFgBS42ppp-84nKS8-zjBg/edit#heading=h.843uipa2lxmy)
 
 ### CX Presentations - Complete
 * [CyNav and Services](images/CyNav and Services.pptx)
@@ -40,7 +44,9 @@
 ... Create an article on a new page, put its title here, and link to it from here ...
 
 ## Initial Proposals
-... Create an article on a new page, put its title here, and link to it from here ...
+* [CX Java Implementation Proposal](https://docs.google.com/document/d/1o-kQiLdlPIq7TNtOmSKBBLQqJTF45EKgvCu-eUjb0hA/edit)
+
+* [CX Java Implementation Proposal 2](https://docs.google.com/document/d/11X7C_JihNMRAT0nt7YSALji1y5HefZmh3xDlTlRU3SI/edit)
 
 ## Adopted Proposals
 ... Create an article on a new page, put its title here, and link to it from here ...
