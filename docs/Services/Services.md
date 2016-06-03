@@ -6,6 +6,8 @@
 ## Other Services
 * [Building and running NBS](https://docs.google.com/document/d/1z5NQhF7cW2ooNtPkooFIngexxSJhBsIkk9NgIM6nX2M/edit#heading=h.h9nsu1mobzmc)
 
+* [Notes on NBS](https://docs.google.com/document/d/1K4uij14wXUp5eKkK0S3P3drBiTWSXRiteTr3nyqWy6w/edit?ts=5751c2b7)
+
 ## Presentation Materials
 * [Barry's Slides](images/Slides.pptx) - Miscellaneous slides describing / supporting service architecture
 
