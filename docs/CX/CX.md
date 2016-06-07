@@ -5,7 +5,7 @@
 
 * [NDEx-related Aspects](https://docs.google.com/document/d/1Bn1X6tFWEDmCr7Z73xZoBhL8HRZhMPqEiWFFbr6gSDc/edit#heading=h.ifadelbobpc9)
 
-* [Cytoscape-related Customizations](https://docs.google.com/document/d/17x0WbbFPNEMjuVyNrIzDaREc-XDBQVgdOh7LqDBYGbI/edit)
+* [Cytoscape-related Aspects](https://docs.google.com/document/d/17x0WbbFPNEMjuVyNrIzDaREc-XDBQVgdOh7LqDBYGbI/edit)
 
 
 ### Using CX - In Progress
