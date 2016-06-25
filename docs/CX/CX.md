@@ -41,7 +41,7 @@
 
 
 ## Loose Thoughts
-... Create an article on a new page, put its title here, and link to it from here ...
+* [Incorporating a NetCache](https://drive.google.com/file/d/0B05JMUI-p-wFeUNENmFNdWwxZUU/view?usp=sharing)
 
 ## Initial Proposals
 * [CX Java Implementation Proposal](https://docs.google.com/document/d/1o-kQiLdlPIq7TNtOmSKBBLQqJTF45EKgvCu-eUjb0hA/edit)
