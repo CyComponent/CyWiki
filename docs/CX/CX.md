@@ -1,5 +1,9 @@
 ## CX is the Cytoscape Network Data Exchange format
 
+### CX Specifications 
+
+* [The latest documentation of CX specification](https://www.cytoscape.org/cx)
+
 ### CX Definition - Latest
 * [CX definition document](https://docs.google.com/document/d/1UTQGSiqbF3QU9FCjymWkdjYICdp7HpDcPfhbehSkgOg/edit#heading=h.czluozfc8nwp)
 
